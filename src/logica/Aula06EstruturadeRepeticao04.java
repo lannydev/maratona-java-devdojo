@@ -1,3 +1,5 @@
+package logica;
+
 public class Aula06EstruturadeRepeticao04 {
     public static void main(String[] args) {
         double valorTotal = 50000;
