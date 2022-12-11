@@ -10,5 +10,7 @@ public class CalculadoraTest {
         System.out.println(calculadora.somar());
         System.out.println(calculadora.subtrair());
         System.out.println(calculadora.multiplicar(10, 2));
+
+        calculadora.dividir2(10, 2);
     }
 }
